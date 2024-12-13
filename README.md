@@ -3,7 +3,10 @@
 StyleLezza - E-commerce Flutter App
 StyleLezza is a modern, feature-rich e-commerce application developed using Flutter. The app offers a seamless shopping experience with user-friendly navigation, product displays, secure payments, and efficient local storage powered by Hive for offline capabilities and enhanced performance.
 
-Features
+Features:-
+
+
+Bot Assistant(using gemini api)
 
 User Authentication:
   Email & Password Sign-In and Sign-Up
@@ -38,3 +41,11 @@ Admin Features:
 Performance Optimizations:
   Hive for efficient local storage and faster app response
   Image caching for reduced load times
+
+
+
+
+
+Screenshots:-
+![Screenshot (269)](https://github.com/user-attachments/assets/25e928d5-8965-4b10-a2d1-03d893fb0fef)
+
