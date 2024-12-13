@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "404129484872",
+    "project_id": "stylelezza045",
+    "storage_bucket": "stylelezza045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404129484872:android:2d64107d15e5d588fb887d",
+        "android_client_info": {
+          "package_name": "com.example.stylelezza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404129484872-lmh53js700cjcsjt6tgd82m51t722jvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stylelezza",
+            "certificate_hash": "65a4d18bb0504572f16ee9aeb72900673ac81537"
+          }
+        },
+        {
+          "client_id": "404129484872-b357l64dfpsp0id80nvquotvl82stk79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHw3alEBHjutEkS95Ji2V_pKhcQVcnZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404129484872-b357l64dfpsp0id80nvquotvl82stk79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404129484872-rv0ool1s0cgkth6nn20t5t4sbkrh8pnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stylelezza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
